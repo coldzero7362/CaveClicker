@@ -1,0 +1,44 @@
+Dummy#허수아비
+bat#박쥐
+babyBat#어린 박쥐
+goldenBat#황금 박쥐
+stoneBat#박쥐 석상
+goblin#고블린
+ironGoblin#강철 고블린
+Centipede#지네
+CaveCentipede#동굴 지네
+ironOreGolem#철광석 골렘
+amethystGolem#자수정 골렘
+goldOreGolem#금광석 골렘
+diamondOreGolem#다이아 골렘
+sapphireOreGolem#청금석 골렘
+emeraldOreGolem#에메랄드 골렘
+sandGolem#모래 골렘
+CombatGolem#전투형 골렘
+BrokenGolem#고장난 골렘
+LavaGolem#용암골렘
+copperOreGolem#구리광석골렘
+stoneOreSlime#그냥 돌 슬라임
+ironOreSlime#강철 슬라임
+goldOreSlime#순금 슬라임
+diamondOreSlime#금강석 슬라임
+stoneHead#돌머리
+monster#몬스터 에너지
+monsterZero#몬스터 에너지 제로
+monsterCitron#몬스터 에너지 시트러스
+monsterRED#몬스터 에너지 레드
+youCanNotGetOut#넌 못 지나간다.
+stoneSnail#암석 달팽이
+poisonSnail#맹독 달팽이
+rockSpider#바위 거미
+poisonSpider#맹독 거미
+caveSpider#동굴 거미
+copperScorpiones#구릿빛 전갈
+silverScorpiones#은광 전갈
+goldScorpiones#황금빛 전갈
+poisonScorpiones#맹독 전갈
+CaveSnake#동굴 뱀
+rockSnake#암석 뱀
+PoisonSnake#맹독 뱀
+ghost#고스트
+stone#그냥 돌

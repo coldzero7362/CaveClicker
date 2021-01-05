@@ -1,0 +1,83 @@
+
+#loginLabel {
+	-fx-effect: dropshadow(gaussian, #ffffff, 10, 0.1, 0, 0);
+	/*블루어효과, 색상, blur범위, 흩어지는 정도, x, y*/
+}
+
+#shopBg {
+	-fx-background-image: url(/resources/sigh.png);
+	-fx-background-size: cover;
+}
+#questPage{
+	-fx-background-image: url(/resources/sigh.png);
+	-fx-background-size: cover;
+}
+
+
+#mainPage{
+	-fx-background-image: url(/resources/mainPage.png);
+	
+}
+
+#questPane{
+	-fx-background-image: url(/resources/questPane.png);
+	-fx-background-size: cover;
+}
+
+#questBtn{
+	-fx-background-image: url(/resources/questBtn.png);
+	-fx-background-size: cover;
+}
+#Btn{
+	-fx-background-image: url(/resources/Btn.png);
+	-fx-background-size: cover;
+}
+#sword{
+	-fx-background-image: url(/resources/ATK.png);
+	-fx-background-size: cover;
+}
+#kill{
+	-fx-background-image: url(/resources/kill.gif);
+	-fx-background-size: cover;
+}
+#Tik{
+	-fx-background-image: url(/resources/Tik.gif);
+	-fx-background-size: cover;
+}
+.btn {
+	-fx-background-radius: 5px;
+	-fx-border-radius: 5px;
+	-fx-text-fill: #fff;
+}
+.ABtnS {
+	-fx-border-color:#3a4f70
+}
+
+.btn-success {
+	
+	-fx-border-color:#ff2121;
+}
+
+.ABtnS:hover {
+	-fx-border-color:#38588a
+	
+}
+
+.btn-success:hover {
+	-fx-background-color:#0069d9;
+	-fx-border-color:#ff0000;
+	-fx-border-width: 3;
+}
+
+.btn-danger {
+	-fx-background-color:#dc3545;
+	-fx-border-color: #dc3545;
+}
+
+.btn-danger:hover {
+	-fx-background-color:#c82333;
+	-fx-border-color: #bd2130;
+}
+#questPage {
+	-fx-background-color:ffffff;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="smith" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: rgb(51,51,51);" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="views.BlacksmithController">
+   <children>
+      <Button layoutX="24.0" layoutY="513.0" mnemonicParsing="false" onAction="#back" prefHeight="63.0" prefWidth="68.0" text="back" />
+      <Label layoutX="9.0" layoutY="14.0" prefHeight="33.0" prefWidth="68.0" text="Gold" textFill="WHITE">
+         <font>
+            <Font name="Arial" size="27.0" />
+         </font>
+      </Label>
+      <Label fx:id="gold" layoutX="24.0" layoutY="47.0" prefHeight="23.0" prefWidth="51.0" text="00000" textFill="WHITE">
+         <font>
+            <Font name="Arial" size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
